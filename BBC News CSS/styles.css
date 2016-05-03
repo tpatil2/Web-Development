@@ -1,0 +1,206 @@
+
+  
+  
+  	body{
+  		margin:0;
+  		font-family: Helmet,Freesans,Helvetica,Arial,sans-serif;
+  	}
+  
+  	#topbar{
+  
+   		background-color:#910C0D;
+  		width:100%;
+  		height:43px;
+  		color:white;
+  	}
+  		  	 		
+  	.fixedwidth{
+  		width:1050px;
+  		margin:0 auto;
+  	}
+  	 	
+  	#logodiv{
+  		padding-top:8px;
+  		float:left;
+  		border-right:1px solid #BB1919;
+  		width:100px;
+  	
+  	  	}
+  	
+  	#signindiv{	
+  		font-weight:bold;
+  		padding:10px 0 10px 10px;
+  		font-size:0.9em;
+  		width:200px;	
+  		float:left;	
+  		border-right:1px solid #BB1919;
+  		
+  	}
+  	
+  	  	
+  	#signindiv img{
+  	
+  		position:relative;
+  		top:3px;
+  		left:10px;
+  	
+  	}
+  	
+  	
+  	#topmenudiv{
+  		float:left;
+  		 		
+  	
+  	}
+  	
+  	#topmenudiv ul{
+  			margin:0;
+  			padding:0;
+  			
+  	}
+  	
+  	
+  	#topmenudiv li{
+  			list-style:none;
+  			font-weight:bold;
+  
+  			font-size:0.9em;
+  			border-right:1px solid #BB1919;
+  			height:100%;
+  			padding: 10px 10px 10px 10px;
+  			float:left;
+  			
+  			
+  	
+  	}
+  	   	
+  	 #searchdiv{
+  	 	float:left;
+
+  	 	padding: 7px 5px 0 15px;
+  	 	
+  	 }  
+  	 
+  	 #searchdiv input{
+  	 	width:180px;
+  	 	height:25px;	
+  	 	border:none;
+  	 	font-size:0.9em;
+  	 	padding-left:10px;
+  	 	background-image:url("images/magnifi.png" );
+  	 	background-repeat: no-repeat;
+  	 	background-position: right;
+  	 	 background-size: 10%;
+  	 
+  	 }	
+  
+  	.break{
+  		clear:both;
+  	
+  	} 	
+  	
+  	 #newsbar{
+   		background-color:#A91717;
+  		width:100%;
+  		height:90px;
+  		color:white;
+  	}
+  	
+  	#newsbar p{
+  		margin:0;
+  		padding:0;
+  		padding-top:10px;
+  		float:left;
+  	
+  	
+  	}
+  	
+  	#newsheader{
+
+ 		font-size:3em;
+  		
+  	}
+  	
+  	#uk{
+  		font-size:.7em;
+  		padding-left:20px;
+  	
+  		}
+  		
+  		#rss{
+  			float:right;
+  			margin-top:40px;
+  		
+  		}
+  		
+  		#topicmenu{
+  		
+  			
+  		
+  		}
+  		
+  		#topicmenu ul{
+  		
+  			background-color:black;
+  			padding:5px 0 5px 5px;
+  			margin:0;
+  			height:15px;
+  			
+  			
+  		}
+  	 
+  	 #topicmenu li{
+  	 	list-style:none;
+  	 	font-size:0.8em;
+  		padding:0 10px 0 10px;
+  		border-right:1px solid #BB1919;
+  		float:left;
+  	 	
+  	 }
+  	 
+  	 .select{
+  	 
+  	 	 background-color:#EDEDED;
+  	 	 color:black;
+  	 	 height:20px;
+  	 	 
+  	 	 top:-8px;	  
+  	 }
+  	 
+  	 
+  	 
+  	 #content{
+  		width:100%;
+  		color:#535353;
+  		font-size:0.9em;
+  	}
+  	
+  	.date{
+  		font-weight:bold;
+  	
+  	}
+  	
+  	.imageheading{
+  			background-color:#EDEDED;
+  			height:30px;
+  			width:500px;
+  	
+  	}
+  	
+  		.databox{
+  			width:500px;
+  	
+  	}
+  	
+  	
+  	#bollywood{
+  	
+
+  			height:400px;
+  			width:500px;
+  			top:-110px;
+  			float:right;
+  			position:relative;
+  		
+  	}
+  	
